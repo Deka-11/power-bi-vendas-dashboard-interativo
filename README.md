@@ -1,78 +1,72 @@
+# 📊 Dashboard de Análise de Vendas | Power BI
 
-# 📊 Relatório Gerencial de Vendas — Power BI | Dashboard Interativo
+Projeto desenvolvido durante os estudos de Business Intelligence na **DIO (Digital Innovation One)**, utilizando Power BI para transformar dados comerciais em dashboards interativos e análises de desempenho.
 
-## 📌 Sobre o Projeto
+## 🎯 Objetivo do projeto
 
-Projeto desenvolvido durante a Formação Power BI Analyst da DIO, com foco na análise de vendas e lucros por meio de dashboards interativos.
+Desenvolver um relatório interativo para acompanhar indicadores comerciais, analisar vendas por produto, país e período, identificar tendências e apoiar a tomada de decisões baseada em dados.
 
-Nesta etapa, o relatório foi aprimorado com novos tipos de gráficos, melhorias no design e recursos de navegação, buscando tornar a visualização dos dados mais clara, organizada e intuitiva.
+## 🖥️ Visualizações do Dashboard
 
-## 📈 Dashboards
+### 📌 Página 1 — Home Page
 
-### 1. Sales — Análise de Vendas
+Página inicial desenvolvida para apresentar o projeto e facilitar a navegação entre as análises disponíveis.
 
-![Dashboard Sales](p1projeto.png)
+![Home Page](Homepage.png)
 
-Apresenta os principais indicadores de vendas, unidades vendidas, desempenho por segmento e evolução das vendas ao longo do tempo.
+### 📌 Página 2 — Dashboard Principal
 
-### 2. Profit — Análise de Lucros
+Visão geral dos indicadores de vendas e desempenho comercial, com gráficos interativos para acompanhar os principais resultados.
 
-![Dashboard Profit](p2projeto.png)
+![Dashboard Principal](Principal.png)
 
-Permite analisar a lucratividade por produto, país, segmento e trimestre, facilitando a comparação dos resultados.
+### 📌 Página 3 — Análise Detalhada
 
-### 3. Report — Relatório Detalhado
+Visualizações complementares para explorar os dados e comparar diferentes indicadores comerciais.
 
-![Dashboard Report](p3projeto.png)
+![Análise Detalhada](Detalhes.png)
 
-Reúne análises detalhadas de vendas e lucros, com comparações mensais, trimestrais e anuais.
+### 📌 Página 4 — Sales Performance | Análise de Vendas
 
-### 4. Análise Interativa — Novas Visualizações
+Análise avançada com rankings Top N, indicadores de vendas máximas, comparação entre países e produtos, gráficos de dispersão e animação temporal.
 
-![Dashboard Interativo](p4projeto.png)
+**Principais recursos:**
+- TOP 5 meses por faturamento e lucro.
+- TOP 3 países e produtos.
+- Comparação de vendas por país.
+- Indicadores DAX de valores máximos.
+- Gráfico de dispersão com linha de tendência.
+- Análise por produto e mês com eixo de reprodução.
+- Formatação condicional com gradientes.
 
-Nesta etapa, foram adicionados novos recursos visuais e interativos, como:
+![Sales Performance](TOPN&Outliers.png)
 
-- Histograma de unidades vendidas.
-- Gráfico de colunas empilhadas por semestre.
-- Comparação de vendas por mês.
-- Gráfico de rosca para análise por segmento.
-- Treemap para comparação de vendas por país.
-- Botões interativos para alternar entre gráficos.
-- Navegação personalizada entre páginas.
+## 🔗 Acesse o projeto
 
-## 🎨 Melhorias no Design
 
-Além dos novos gráficos, foram aplicadas melhorias visuais para facilitar a navegação e a interpretação dos dados.
+📁 **[Acessar arquivo Power BI](<Projetofinal.pbix>)**
 
-- Organização dos gráficos e indicadores.
-- Padronização de cores e elementos visuais.
-- Criação de botões personalizados.
-- Melhor distribuição das informações.
-- Aplicação de conceitos de experiência do usuário (UX).
+## 🛠️ Tecnologias utilizadas
 
-## 🛠️ Ferramentas Utilizadas
-
-- Power BI Desktop
+- Microsoft Power BI Desktop
 - Power Query
-- DAX
-- Visualização de Dados
-- Conceitos de UX
+- DAX (Data Analysis Expressions)
+- Modelagem e análise de dados
+- Filtros e segmentações interativas
+- Gráficos de dispersão e linhas de tendência
+- Formatação condicional e Data Visualization
 
-## 📚 Aprendizados
+## 🚀 Evolução do projeto
 
-Com este projeto, pude praticar diferentes formas de apresentar informações no Power BI, explorar novos tipos de gráficos e trabalhar com botões e indicadores para criar dashboards mais interativos.
+Durante o desenvolvimento, foram implementadas melhorias na organização visual, criação de indicadores personalizados e utilização de recursos de interatividade.
 
-Também aprimorei meus conhecimentos sobre organização visual, escolha de gráficos e apresentação de dados para facilitar a análise dos resultados.
+As novas páginas ampliaram as possibilidades de análise, permitindo explorar o desempenho comercial sob diferentes perspectivas e períodos.
 
-## 📂 Arquivo do Projeto
+## 💡 Aprendizados
 
-O relatório completo está disponível para download e pode ser aberto no Power BI Desktop.
+O projeto proporcionou experiência prática na construção de dashboards, criação de medidas DAX, organização de informações, análise de indicadores comerciais e desenvolvimento de visualizações voltadas à tomada de decisão.
 
-📊 [Clique aqui para acessar ou baixar o projeto Power BI](Relatorio_Gerencial_Vendas.pbix)
+---
 
-## 👩‍💻 Autora
+**Desenvolvido por Deborah dos Santos | DIO — Power BI**
 
-**Deborah Calixto**
-
-Projeto desenvolvido como parte da Formação Power BI Analyst — DIO.
